@@ -1,0 +1,20 @@
+body {
+    background-color: blanchedalmond;
+}
+.image {
+    display: flex;
+    column-gap: 50px;
+    justify-content: center;
+}
+.heading {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+button {
+    font-size: medium;
+    margin-left: -170px;
+    text-decoration: none;
+    
+}
